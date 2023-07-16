@@ -1,6 +1,6 @@
 ### Hello, World!
 
-I'm a **Software Engineer** based in **Europe**. I use GitHub mainly for work and for hosting my **npm** packages.
+I'm a **Software Engineer** based in **Europe**. I'm good at **full-stack**, **embedded**, and anything that needs **high performance**. I use GitHub mainly for work and for hosting my **npm** packages.
 
 Check out my **pinned** packages! I made them for writing **video games** or other **desktop/multimedia** applications. Let me know if you need help with anything. I'd be **very** happy to help.
 
