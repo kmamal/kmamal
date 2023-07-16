@@ -1,6 +1,6 @@
 ### Hello, World!
 
-I'm a **Software Engineer** based in **Europe**. I love studying all kinds of **algorithms** and **data structures**, but especially those related to **graphics**, **ai**, or **distributed systems**.
+I'm a **Software Engineer** based in **Europe**. I love the studying of **algorithms** and **data structures**, especially those related to **graphics**, **compilers**, **ai**, and **distributed systems**.
 
 Check out my **pinned** packages! I made them for writing **video games** or other **desktop/multimedia** applications. Let me know if you need help with anything. I'd be **very** happy to help.
 
